@@ -3,7 +3,6 @@
 Multilingual speech-to-speech and speech-to-text assistant powered by Gemini 2.5 Flash (default) or OpenAI Whisper + GPT. The app preserves pauses, supports on-device playback/download, and exposes a text-only conversion workflow.
 
 ## Features
-* __Dual providers__: Switch between `Gemini` and `OpenAI` for transcription and translation.
 * __Pause preservation__: Voice Activity Detection (VAD) segments speech and rebuilds output audio with original gaps.
 * __Text conversion__: Convert uploaded or recorded audio to translated text with per-segment transcripts.
 * __Modern UI__: Vite + React + Tailwind front-end inspired by Perplexity.
